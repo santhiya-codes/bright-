@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/data.ts","./src/main.tsx","./src/types.ts","./src/components/Footer.tsx","./src/components/Layout.tsx","./src/components/Logo.tsx","./src/components/Navbar.tsx","./src/pages/AdminDashboard.tsx","./src/pages/LandingPage.tsx","./src/pages/StudentLogin.tsx","./src/pages/StudentTest.tsx"],"version":"5.9.3"}
